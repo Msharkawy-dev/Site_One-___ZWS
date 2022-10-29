@@ -763,18 +763,18 @@ header nav ul li:hover{
 
 .Portfolio_section{
     margin-top: 50px;
-    padding-top: 30px;
+    padding-top: 20px;
     height: 580px;
     width: 100%;
     background-color: rgb(244, 245, 255);
 }
 .Portfolio_contener{
-    width: 80%;
+    width: 81%;
     overflow: auto;
     position: relative;
 }
 .Portfolio_items{
-    width: 90%;
+    width: 91%;
     overflow: auto;
     position: relative;
     background-color: rgb(244, 245, 255);
